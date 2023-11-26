@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-jose[cryptography]
+bcrypt
+passlib[bcrypt]
+pymongo
+# Add any other required packages
+pydantic[email]
+python-multipart
